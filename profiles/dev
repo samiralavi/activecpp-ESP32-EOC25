@@ -1,0 +1,1 @@
+-B build_dev -DSDKCONFIG=build_dev/sdkconfig -DSDKCONFIG_DEFAULTS="sdkconfig.defaults;"

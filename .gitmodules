@@ -1,0 +1,6 @@
+[submodule "components/activecpp/activecpp"]
+	path = components/activecpp/activecpp
+	url = https://github.com/samiralavi/activecpp
+[submodule "components/espp"]
+	path = components/espp
+	url = https://github.com/esp-cpp/espp.git
